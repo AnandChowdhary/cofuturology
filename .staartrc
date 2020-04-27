@@ -1,0 +1,11 @@
+{
+  "title": "Cofuturology",
+  "baseUrl": "https://cofuturology.twente.me",
+  "themeColor": "#0c3152",
+  "textColor": "#000929",
+  "linkColor": "#3567dc",
+  "googleAnalytics": "UA-106998524-3",
+  "agastyaApiKey": "cofuturology",
+  "twitterPublisher": "AnandChowdhary",
+  "fancyLinks": true
+}
