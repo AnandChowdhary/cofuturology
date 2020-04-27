@@ -2,6 +2,16 @@
 
 **Cofuturology** is a _concept_ podcast about the future, hosted by [Dr. Jeffrey White](https://utwente.academia.edu/jeffwhite) and [Anand Chowdhary](https://anandchowdhary.com). The idea is to have a conversation over Skype every other week and release at least a few episodes, and then perhaps interview some of our favorite futurists.
 
+Coming soon to your favorite podcast player:
+
+[![Spotify](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/spotify.png?raw=true)](#)
+[![Apple Podcasts](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/apple.png?raw=true)](#)
+[![Pocket Casts](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/pocketcasts.png?raw=true)](#)
+[![Stitcher](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/stitcher.png?raw=true)](#)
+[![Google Podcasts](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/google.png?raw=true)](#)
+[![RadioPublic](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/radiopublic.png?raw=true)](#)
+[![RSS](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/rss.png?raw=true)](#)
+
 ## 🎙️ About the hosts
 
 **Jeffrey B. White**, PhD, is an Assistant Professor part of the Faculty of Behavioural, Management and Social Sciences (BMS), Department of Philosophy (WIJSB), University of Twente. Jeff served as the co-chair of Philosophy of AI at the *2018 World Congress of Philosophy*), edits papers for *PhilPapers*, reviews papers for several conferences and journals, and is a member of the Advisory Board for the peer-reviewed journal *AI & Society*.
