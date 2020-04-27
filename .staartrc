@@ -4,6 +4,7 @@
   "baseUrl": "https://cofuturology.twente.me",
   "themeColor": "#ffe600",
   "textColor": "#372500",
+  "headerTextColor": "#000000",
   "linkColor": "#000000",
   "googleAnalytics": "UA-106998524-3",
   "agastyaApiKey": "cofuturology",
