@@ -9,5 +9,6 @@
   "googleAnalytics": "UA-106998524-3",
   "agastyaApiKey": "cofuturology",
   "twitterPublisher": "AnandChowdhary",
-  "fancyLinks": true
+  "fancyLinks": true,
+  "noDarkTheme": true
 }
