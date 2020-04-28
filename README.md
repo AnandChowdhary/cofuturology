@@ -14,9 +14,9 @@ Coming soon to your favorite podcast player:
 
 ## 🎙️ About the hosts
 
-**Jeffrey B. White**, PhD, is an Assistant Professor part of the Faculty of Behavioural, Management and Social Sciences (BMS), Department of Philosophy (WIJSB), University of Twente. Jeff served as the co-chair of Philosophy of AI at the *2018 World Congress of Philosophy*), edits papers for *PhilPapers*, reviews papers for several conferences and journals, and is a member of the Advisory Board for the peer-reviewed journal *AI & Society*.
+**Jeffrey B. White**, PhD, is an Assistant Professor at the Faculty of Behavioural, Management and Social Sciences (BMS), Department of Philosophy (WIJSB), University of Twente and Visiting Scholar at the Cognitive Neurorobotics Research Unit (Jun Tani), Okinawa Institute of Science and Technology. Jeff served as the co-chair of Philosophy of AI at the 2018 World Congress of Philosophy), edits papers for PhilPapers, reviews papers for several conferences and journals, and is a member of the Advisory Board for the peer-reviewed journal AI & Society.
 
-**Anand Chowdhary** is a creative technologist and entrepreneur, and Creative Technology BSc student at University of Twente. He is the co-founder and CEO of *Oswald Labs*, an award-winning accessibility technology company that builds products for people with disabilities, and was featured in the *Forbes 30 Under 30* Asia 2018 list. He also works with startups as a consultant, maintains several open source projects, and serves as an advisor to nonprofit *Oefenen.nl*.
+**Anand Chowdhary** is a creative technologist and entrepreneur, and Creative Technology BSc student at University of Twente. He is the co-founder and CEO of Oswald Labs, an award-winning accessibility technology company that builds products for people with disabilities. He has been featured as one of the most innovative entrepreneurs in the Netherlands and listed in Forbes 30 Under 30 Asia 2018. He also works with startups as a consultant and advisor, maintains several open source projects, and serves on the Advisory Committee of the Dutch edtech nonprofit Oefenen.nl.
 
 ## 🎧 Episodes
 
