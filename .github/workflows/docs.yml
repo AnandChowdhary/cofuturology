@@ -1,8 +1,9 @@
 name: Google Docs
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron: "0 20 * * *"
+  repository_dispatch:
+    types: [update]
 jobs:
   release:
     name: Fetch Google Docs
