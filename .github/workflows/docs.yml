@@ -1,0 +1,31 @@
+name: Google Docs
+on:
+  push:
+    branches:
+      - master
+jobs:
+  release:
+    name: Fetch Google Docs
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+      - name: Build static site
+        run: npx docs-markdown fetch
+        env:
+          FILES: ${{ secrets.FILES }}
+          GOOGLE_DOCS_ACCESS: ${{ secrets.GOOGLE_DOCS_ACCESS }}
+          GOOGLE_DOCS_REFRESH: ${{ secrets.GOOGLE_DOCS_REFRESH }}
+          GOOGLE_DOCS_CLIENT_ID: ${{ secrets.GOOGLE_DOCS_CLIENT_ID }}
+          GOOGLE_DOCS_CLIENT_SECRET: ${{ secrets.GOOGLE_DOCS_CLIENT_SECRET }}
+      - name: Commit new data
+        uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        with:
+          commit_message: ":pencil: Update Google Docs file"
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions <actions@github.com>
