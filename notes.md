@@ -1,7 +1,7 @@
 ---
 title: Cofuturology
 documentId: 1UEUrJ98RXu9BNcFj3pMgiUALQpjIb8Y-gNu-YhlYvFQ
-revisionId: ALm37BVKy7jmoicMYCC_2xKGNLezol6_MA_21HuN3PXN1UrKNBN8kYDIoJUy92a9M9E7sF2SekRSiTttqzfmdI4
+revisionId: ALm37BVdkL-E21h_teWHUj_uDCdNnu7FkJh8GWkMfbe1A860QDb-_ic56wnDhWxaKG-JsjagJPff4at7TvTHGi8
 ---
 
 # Cofuturology
@@ -30,6 +30,10 @@ Love it. (Anand)
 - Video or audio only? (Jeff)
   - I’m open to both, I think we can always release the video later as a “bonus”, and it might be easier for us to have a conversation where we can see each other. We don’t share the video at first, but I think it’s good to have it. (Anand)
   - Video - the new ipad pro shoots 4k video. I have a Rode videomicro to be delivered today. Let’s see what we can do! (Jeff)
+    - Set up recording on the samsung a7, rode videomicro, shooting 1:1 video.1440x1440. The camera automatically limits videos to 4gb, but also seems to automatically open another video for continuous recording past that point. I think that 4gb is about 30 minutes.
+  - Oops… google platform makes this independent recording a non issue.
+    - I am also able to record my computer screen and audio separately
+    - And, I am able to edit these (phone and computer files) together using Camtasia into one file if that would be useful.
 
 ### Content ideas
 
@@ -80,7 +84,7 @@ Let’s have an agenda. Maybe we can think about different segments. News segmen
 1. Jeff: “Hello, and welcome to the Cofuturology podcast, hosted by Dr. Jeffrey Benjamin White and Anand Chowdhary”
 1. _Talking
 _
-1. Anand: “Thanks for listening to Cofuturology, hosted by Dr. Jefferey White and Anand Chowdhary. You can read our show notes on our website cofuturology.twente.me. Our podcast is also open source on GitHub. Our music is by Wowa, who you can listen to on Spotify. You can also find this podcast on Spotify, Pocket Casts, Overcast, or anywhere else you listen to podcasts. Thanks for listening to our first episode, we’ll be back with more soon!”
+1. “Thanks for listening to Cofuturology, hosted by Dr. Jefferey White and Anand Chowdhary. You can read our show notes on our website cofuturology.twente.me. Our podcast is also open source on GitHub. Our music is by Wowa, who you can listen to on Spotify. You can also find this podcast on Spotify, Pocket Casts, Overcast, or anywhere else you listen to podcasts. Thanks for listening to our first episode, we’ll be back with more soon!”
 
 #### Ideas
 
@@ -112,5 +116,15 @@ _
     - Close on faith in institutions and the UN for example, announce intention to get PPVerbeek to talk with us for an hour about tech mediation, possible futures, and what he knows from his association with UNESCO and so on…
 - Stop at 1 hour+/- (Jeff)
   - Yep, let’s have a soft limit after 55 mins and a hard limit at 1 hour 15 mins
+
+Notes:
+
+99+% of energy reaching Earth comes from the Sun!
+
+The Sun is growing less active => less energy to Earth => cooling!
+
+[https://www.sciencedaily.com/releases/2015/07/150709092955.htm](https://www.sciencedaily.com/releases/2015/07/150709092955.htm)
+
+Maybe people will want more CO2 soon? ^^/-
 
 
