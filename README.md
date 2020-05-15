@@ -2,15 +2,23 @@
 
 **Cofuturology** is a _concept_ podcast about the future, hosted by [Dr. Jeffrey White](https://utwente.academia.edu/jeffwhite) and [Anand Chowdhary](https://anandchowdhary.com). The idea is to have a conversation over Skype every other week and release at least a few episodes, and then perhaps interview some of our favorite futurists.
 
-Coming soon to your favorite podcast player:
+## 🌟 Previews
 
-[![Spotify](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/spotify.png?raw=true)](#)
-[![Apple Podcasts](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/apple.png?raw=true)](#)
-[![Pocket Casts](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/pocketcasts.png?raw=true)](#)
-[![Stitcher](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/stitcher.png?raw=true)](#)
-[![Google Podcasts](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/google.png?raw=true)](#)
-[![RadioPublic](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/radiopublic.png?raw=true)](#)
-[![RSS](https://github.com/AnandChowdhary/cofuturology/blob/master/branding/rss.png?raw=true)](#)
+### Intro
+
+<audio controls src="https://raw.githubusercontent.com/AnandChowdhary/cofuturology/master/Sneek%20Peak%20%20Counting.mp3"></audio>
+
+### Topic: Polio
+
+<audio controls src="https://raw.githubusercontent.com/AnandChowdhary/cofuturology/master/Sneek%20Peak%20%20Polio.mp3"></audio>
+
+### Topic: Climate change
+
+<audio controls src="https://raw.githubusercontent.com/AnandChowdhary/cofuturology/master/Sneek%20Peak%20%20Climate%20Change.mp3"></audio>
+
+### Outro
+
+<audio controls src="https://raw.githubusercontent.com/AnandChowdhary/cofuturology/master/Sneek%20Peak%20%20Ending.mp3"></audio>
 
 ## 🎙️ About the hosts
 
