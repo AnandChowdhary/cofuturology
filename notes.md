@@ -1,7 +1,7 @@
 ---
 title: Cofuturology
 documentId: 1UEUrJ98RXu9BNcFj3pMgiUALQpjIb8Y-gNu-YhlYvFQ
-revisionId: ALm37BXLBHABwZ9peBp2jnOYZsUxQf4caNnadzpeV-xwOZw7UeoPX3f5I6MmrQFjxDK1LfIN3NNPiA3Z-Yg-v4Q
+revisionId: ALm37BWR3IQsKV_GnJGHRBvNeA2wtZ5UFk9GDnAjoV4A8bysFcuDZR57G6RsE-K8m7l6ACKjPn9lgRqbGtoErFk
 ---
 
 # Cofuturology
@@ -133,6 +133,8 @@ Departments? Ideas:
 **Thank you sir, may I have another?** - Where we talk about stuff that we did that we like, purchased and would purchase again, recommend, etc. 
 
 **In the noobs** - This is where we talk about tragic consequences of doing things for the first time, e.g. Space X crashes or maybe even Windows updates bricking machines (as if noobs).
+
+**Pre dick shins** - this is where we tell the future that we are going to kick it square in the nutz!
 
 Do you have any ideas about departments, Anand? What do you think of the idea?
 
